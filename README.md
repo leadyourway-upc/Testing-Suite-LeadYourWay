@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./Assets/logo-lyw.png" alt="UPC" height="180">
-  <h3 align="center">Lead Your Way - Bike Rental App</h3>
+  <h3 align="center">Lead Your Way - Testing Suite</h3>
   <p>2023</p>
 </div>
 
